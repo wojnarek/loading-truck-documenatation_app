@@ -33,7 +33,7 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String adminpasswd = "zebra2022";
+    private static final String adminpasswd = "[HARDCODED PASSWORD FOR SETTINGS]";
 
 
     public static final int MAX_PHOTO_NUMBER = 3;
