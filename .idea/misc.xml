@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/X/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/Test/app/src/main/res/layout/appsettings_layout.xml" value="0.5" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/Test/app/src/main/res/layout/images_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/Test/app/src/main/res/layout/popup_layout.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/Test/app/src/main/res/xml/file_paths.xml" value="0.10689890710382513" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/TestNoZebraEmdk/app/src/main/res/layout/activity_main.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/TestNoZebraEmdk/app/src/main/res/layout/appsettings_layout.xml" value="0.684375" />
+        <entry key="..\:/Users/X/AndroidStudioProjects/TestNoZebraEmdk/app/src/main/res/layout/images_layout.xml" value="0.684375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#dfe4ea">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10pt"
+        android:layout_marginTop="25pt"
+        android:text="Network drive address"
+        android:textAlignment="center"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/tvNetworkDriveAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text=""
+        android:textSize="12pt"
+        android:hint="0.0.0.0"
+        android:layout_marginHorizontal="5pt"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(ex.: 192.168.1.100)"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/changeNetoworkDriveAddressBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="220dp"
+        android:layout_marginRight="10dp"
+        android:text="EDIT"
+        android:textSize="14dp"
+        android:backgroundTint="#00b4fc"/>
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10pt"
+        android:layout_marginTop="100dp"
+        android:text="Destination folder (must exist)"
+        android:textAlignment="center"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/tvNetowrkDriveDestinationFolder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text=""
+        android:textSize="12pt"
+        android:hint="//0.0.0.0/zdjecia/"
+        android:layout_marginHorizontal="5pt" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(ex.: documents/scanner/photos)"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/changeBtn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="220dp"
+        android:layout_marginRight="10dp"
+        android:text="EDIT"
+        android:textSize="14dp"
+        android:backgroundTint="#00b4fc"/>
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SAVE"
+        android:layout_marginTop="100px"
+        android:layout_marginHorizontal="10px"
+        android:backgroundTint="#7cf49a"
+        android:textColor="@color/black"/>
+
+
+</LinearLayout>
